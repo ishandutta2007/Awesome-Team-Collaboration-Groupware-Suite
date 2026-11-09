@@ -61,98 +61,98 @@ Commercial, cloud-hosted Team Collaboration and Groupware Suite platforms sorted
 Self-hosted, community-driven Team Collaboration and Groupware Suite projects, sorted descending by GitHub stargazers.
 
 ### 1. Mattermost 💬
-[![GitHub Stars](https://img.shields.io/github/stars/mattermost/mattermost?style=social&color=white)](https://github.com/mattermost/mattermost/stargazers)  
+[![GitHub_Stars](https://img.shields.io/github/stars/mattermost/mattermost?style=social&color=white)](https://github.com/mattermost/mattermost/stargazers)  
 **Stack:** Go / React / PostgreSQL / MySQL | **License:** Apache-2.0 / AGPL-3.0  
 **Repo:** [mattermost/mattermost](https://github.com/mattermost/mattermost)  
 Mattermost is an open-source, self-hosted collaboration platform built for technical and operational teams. It delivers secure channels, real-time messaging, audio calling with screen sharing, workflows, and integrated playbook incident management. It serves as an enterprise-grade self-hosted alternative to Slack and Microsoft Teams with deep developer toolchain integrations.  
 **Best for:** Organizations needing secure internal chat, developer DevOps workflows, and mission-critical incident collaboration.
 
 ### 2. Nextcloud Hub ☁️
-[![GitHub Stars](https://img.shields.io/github/stars/nextcloud/server?style=social&color=white)](https://github.com/nextcloud/server/stargazers)  
+[![GitHub_Stars](https://img.shields.io/github/stars/nextcloud/server?style=social&color=white)](https://github.com/nextcloud/server/stargazers)  
 **Stack:** PHP / JavaScript / MariaDB / PostgreSQL / Redis | **License:** AGPL-3.0  
 **Repo:** [nextcloud/server](https://github.com/nextcloud/server)  
 Nextcloud Hub is the leading open-source on-premises collaboration and content management platform. It offers a direct alternative to Microsoft 365 and Google Workspace, unifying files (Files), email and calendaring (Groupware), chat and video meetings (Talk), Kanban project planning (Deck), and real-time document editing (Nextcloud Office via Collabora or ONLYOFFICE).  
 **Best for:** Organizations requiring a 100% self-hosted, sovereign replacement for Microsoft 365 and Google Workspace.
 
 ### 3. Stalwart Mail & Collaboration Server 📬
-[![GitHub Stars](https://img.shields.io/github/stars/stalwartlabs/stalwart?style=social&color=white)](https://github.com/stalwartlabs/stalwart/stargazers)  
+[![GitHub_Stars](https://img.shields.io/github/stars/stalwartlabs/stalwart?style=social&color=white)](https://github.com/stalwartlabs/stalwart/stargazers)  
 **Stack:** Rust / RocksDB / FoundationDB / S3 | **License:** AGPL-3.0  
 **Repo:** [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart)  
 Stalwart is an all-in-one open-source mail, directory, and calendar server built entirely in Rust. It natively implements JMAP (RFC 8620/8621), IMAP4, SMTP, CalDAV, and CardDAV alongside built-in spam protection, full-text search, and LDAP directory integration. Designed for maximum memory safety and multi-tenant performance.  
 **Best for:** Modern high-throughput mail and calendar deployments seeking modern JMAP/CalDAV standards in a secure Rust runtime.
 
 ### 4. mailcow: dockerized 🐮
-[![GitHub Stars](https://img.shields.io/github/stars/mailcow/mailcow-dockerized?style=social&color=white)](https://github.com/mailcow/mailcow-dockerized/stargazers)  
+[![GitHub_Stars](https://img.shields.io/github/stars/mailcow/mailcow-dockerized?style=social&color=white)](https://github.com/mailcow/mailcow-dockerized/stargazers)  
 **Stack:** Docker / PHP / Python / Postfix / Dovecot / SOGo / Nginx | **License:** GPL-3.0  
 **Repo:** [mailcow/mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized)  
 mailcow is an open-source, containerized mail and groupware suite that orchestrates Postfix, Dovecot, SOGo, Rspamd, ClamAV, and Redis into an easy-to-deploy Docker compose stack. It features modern browser webmail, CalDAV/CardDAV sync, ActiveSync compatibility, and granular admin management with DKIM, ARC, and 2FA.  
 **Best for:** Sysadmins seeking an automated, turn-key mail and calendar groupware server in production containers.
 
 ### 5. ownCloud Infinite Scale (OCIS) 📁
-[![GitHub Stars](https://img.shields.io/github/stars/owncloud/core?style=social&color=white)](https://github.com/owncloud/core/stargazers)  
+[![GitHub_Stars](https://img.shields.io/github/stars/owncloud/core?style=social&color=white)](https://github.com/owncloud/core/stargazers)  
 **Stack:** Go / Vue.js / Microservices / S3 Storage | **License:** Apache-2.0  
 **Repo:** [owncloud/core](https://github.com/owncloud/core) *(Modern runtime: [owncloud/ocis](https://github.com/owncloud/ocis))*  
 ownCloud Infinite Scale is a cloud-native file sync, share, and team workspace architecture written from scratch in Go. Removing traditional LAMP-stack database bottlenecks, it brings microservices scalability, native metadata handling, collaborative office document viewing, and spaces for cross-functional project teams.  
 **Best for:** High-concurrency enterprise file sharing, large university deployments, and cloud-native Kubernetes environments.
 
 ### 6. CryptPad 🔒
-[![GitHub Stars](https://img.shields.io/github/stars/cryptpad/cryptpad?style=social&color=white)](https://github.com/cryptpad/cryptpad/stargazers)  
+[![GitHub_Stars](https://img.shields.io/github/stars/cryptpad/cryptpad?style=social&color=white)](https://github.com/cryptpad/cryptpad/stargazers)  
 **Stack:** JavaScript / Node.js | **License:** AGPL-3.0  
 **Repo:** [cryptpad/cryptpad](https://github.com/cryptpad/cryptpad)  
 CryptPad is a privacy-first, zero-knowledge, real-time collaboration suite. All documents, rich text notes, spreadsheets, presentations, code pads, and Kanban boards are end-to-end encrypted in the browser before reaching the server. The hosting administrator cannot read user data or files.  
 **Best for:** Privacy-critical organizations, journalists, legal teams, and privacy-conscious distributed workgroups.
 
 ### 7. Roundcube Webmail ✉️
-[![GitHub Stars](https://img.shields.io/github/stars/roundcube/roundcubemail?style=social&color=white)](https://github.com/roundcube/roundcubemail/stargazers)  
+[![GitHub_Stars](https://img.shields.io/github/stars/roundcube/roundcubemail?style=social&color=white)](https://github.com/roundcube/roundcubemail/stargazers)  
 **Stack:** PHP / JavaScript / MariaDB / PostgreSQL | **License:** GPL-3.0  
 **Repo:** [roundcube/roundcubemail](https://github.com/roundcube/roundcubemail)  
 Roundcube is one of the most widely deployed browser-based multilingual IMAP clients with groupware extensions. It features an intuitive desktop-like web interface, drag-and-drop message management, address book syncing (CardDAV/LDAP), calendar integrations, PGP message encryption (Enigma), and a rich modular plugin ecosystem.  
 **Best for:** Organizations wanting a dependable, standards-compliant, lightweight webmail and contact management UI.
 
 ### 8. ONLYOFFICE Workspace 📝
-[![GitHub Stars](https://img.shields.io/github/stars/ONLYOFFICE/CommunityServer?style=social&color=white)](https://github.com/ONLYOFFICE/CommunityServer/stargazers)  
+[![GitHub_Stars](https://img.shields.io/github/stars/ONLYOFFICE/CommunityServer?style=social&color=white)](https://github.com/ONLYOFFICE/CommunityServer/stargazers)  
 **Stack:** C# / .NET Core / Node.js / PostgreSQL / MySQL | **License:** AGPL-3.0  
 **Repo:** [ONLYOFFICE/CommunityServer](https://github.com/ONLYOFFICE/CommunityServer)  
 ONLYOFFICE Workspace integrates online document editors with collaboration business tools: documents, projects, CRM, team mail, and calendars. It provides class-leading native compatibility with Microsoft Office formats (DOCX, XLSX, PPTX) and allows real-time collaborative editing with track changes and comments.  
 **Best for:** Document-centric workgroups needing flawless MS Office formatting fidelity, CRM, and integrated project milestones.
 
 ### 9. SOGo Groupware 📅
-[![GitHub Stars](https://img.shields.io/github/stars/Alinto/sogo?style=social&color=white)](https://github.com/Alinto/sogo/stargazers)  
+[![GitHub_Stars](https://img.shields.io/github/stars/Alinto/sogo?style=social&color=white)](https://github.com/Alinto/sogo/stargazers)  
 **Stack:** Objective-C / C / PostgreSQL / MySQL | **License:** LGPL-2.1  
 **Repo:** [Alinto/sogo](https://github.com/Alinto/sogo)  
 SOGo is an enterprise collaborative software server focusing on scalability and open standards. It provides full webmail, calendar (CalDAV), and address book (CardDAV) services alongside native Microsoft ActiveSync support. It integrates smoothly with Microsoft Outlook, Mozilla Thunderbird, and Apple Calendar.  
 **Best for:** Institutions wanting a battle-tested groupware backend with seamless Outlook/ActiveSync and mobile synchronization.
 
 ### 10. Cozy Cloud Stack 🏠
-[![GitHub Stars](https://img.shields.io/github/stars/cozy/cozy-stack?style=social&color=white)](https://github.com/cozy/cozy-stack/stargazers)  
+[![GitHub_Stars](https://img.shields.io/github/stars/cozy/cozy-stack?style=social&color=white)](https://github.com/cozy/cozy-stack/stargazers)  
 **Stack:** Go / CouchDB / JavaScript | **License:** AGPL-3.0  
 **Repo:** [cozy/cozy-stack](https://github.com/cozy/cozy-stack)  
 Cozy is a personal and team groupware platform built around user data sovereignty. It provides file synchronization, contacts, calendar management, task tracking, and personal document aggregation across cloud providers, backed by CouchDB and client-side sync clients.  
 **Best for:** Privacy-first individuals and micro-teams wanting a personal cloud and data-aggregator groupware hub.
 
 ### 11. eGroupWare 📊
-[![GitHub Stars](https://img.shields.io/github/stars/EGroupware/egroupware?style=social&color=white)](https://github.com/EGroupware/egroupware/stargazers)  
+[![GitHub_Stars](https://img.shields.io/github/stars/EGroupware/egroupware?style=social&color=white)](https://github.com/EGroupware/egroupware/stargazers)  
 **Stack:** PHP / MariaDB / Collabora Online | **License:** GPL-2.0  
 **Repo:** [EGroupware/egroupware](https://github.com/EGroupware/egroupware)  
 eGroupWare is an enterprise-ready web-based groupware suite developed since 2001. It packs address books, calendars, task management, email web client, integrated project management with Gantt charts, CRM tracking, file management, and integrated Collabora Online office document authoring.  
 **Best for:** Established enterprises wanting integrated project accounting, customer tracking, and groupware in a single stack.
 
 ### 12. Group-Office 🗄️
-[![GitHub Stars](https://img.shields.io/github/stars/Intermesh/groupoffice?style=social&color=white)](https://github.com/Intermesh/groupoffice/stargazers)  
+[![GitHub_Stars](https://img.shields.io/github/stars/Intermesh/groupoffice?style=social&color=white)](https://github.com/Intermesh/groupoffice/stargazers)  
 **Stack:** PHP / JavaScript / MySQL | **License:** AGPL-3.0  
 **Repo:** [Intermesh/groupoffice](https://github.com/Intermesh/groupoffice)  
 Group-Office is a modular enterprise groupware and CRM platform. It brings together shared email, scheduling, file sharing, CRM, time tracking, project management, and Kanban boards. Version 26+ includes Collabora Online integration directly within the community edition for document co-authoring.  
 **Best for:** Small-to-medium businesses wanting a unified CRM, invoicing, project management, and groupware combo.
 
 ### 13. Zimbra Collaboration 🏢
-[![GitHub Stars](https://img.shields.io/github/stars/Zimbra/zm-build?style=social&color=white)](https://github.com/Zimbra/zm-build/stargazers)  
+[![GitHub_Stars](https://img.shields.io/github/stars/Zimbra/zm-build?style=social&color=white)](https://github.com/Zimbra/zm-build/stargazers)  
 **Stack:** Java / C / Postfix / MariaDB | **License:** Common Public Attribution License (CPAL-1.0) / Open Source  
 **Repo:** [Zimbra/zm-build](https://github.com/Zimbra/zm-build)  
 Zimbra is an established open-source messaging and collaboration suite used by hundreds of millions of mailboxes worldwide. It provides a browser-based client for email, calendars, tasks, social feeds, and briefcase file sharing, with strong LDAP/Active Directory connector support.  
 **Best for:** Service providers, telcos, and academic institutions requiring enterprise mail hosting with multi-tenancy.
 
 ### 14. Twake Workplace 👥
-[![GitHub Stars](https://img.shields.io/github/stars/linagora/twake-workplace?style=social&color=white)](https://github.com/linagora/twake-workplace?style=social&color=white)  
+[![GitHub_Stars](https://img.shields.io/github/stars/linagora/twake-workplace?style=social&color=white)](https://github.com/linagora/twake-workplace?style=social&color=white)  
 **Stack:** TypeScript / Vue.js / Node.js / Docker | **License:** AGPL-3.0  
 **Repo:** [linagora/twake-workplace](https://github.com/linagora/twake-workplace)  
 Twake is an open-source digital collaborative workplace platform designed to provide a privacy-compliant alternative to Microsoft Teams and Google Drive. Developed under Linagora, it features channel messaging, drive storage, office document editing, team calendars, and task management.  
